@@ -1,0 +1,7 @@
+/home/daniel-gama/Documentos/GitHub/exercicios_csharp_prog1/obj/Debug/net7.0/exercicios_csharp_prog1.csproj.AssemblyReference.cache
+/home/daniel-gama/Documentos/GitHub/exercicios_csharp_prog1/obj/Debug/net7.0/exercicios_csharp_prog1.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel-gama/Documentos/GitHub/exercicios_csharp_prog1/obj/Debug/net7.0/exercicios_csharp_prog1.AssemblyInfoInputs.cache
+/home/daniel-gama/Documentos/GitHub/exercicios_csharp_prog1/obj/Debug/net7.0/exercicios_csharp_prog1.AssemblyInfo.cs
+/home/daniel-gama/Documentos/GitHub/exercicios_csharp_prog1/obj/Debug/net7.0/exercicios_csharp_prog1.csproj.CoreCompileInputs.cache
+/home/daniel-gama/Documentos/GitHub/exercicios_csharp_prog1/obj/Debug/net7.0/exercicios_csharp_prog1.MvcApplicationPartsAssemblyInfo.cs
+/home/daniel-gama/Documentos/GitHub/exercicios_csharp_prog1/obj/Debug/net7.0/exercicios_csharp_prog1.MvcApplicationPartsAssemblyInfo.cache
